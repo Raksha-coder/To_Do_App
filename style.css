@@ -156,3 +156,14 @@
     left: 130px;
     font-size: 20;
 }
+
+
+#btn-click{
+    background-color: white;
+    color: #ff5e74;
+    border: 1px solid #a1a1a1;
+    padding: 10px;
+    margin-top: 35px;
+    margin-left: 45%;
+    box-shadow: 3px 2px 5px 0 #ff5e74;
+}
